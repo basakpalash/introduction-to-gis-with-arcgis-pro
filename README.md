@@ -1,4 +1,2 @@
 # Introduction to GIS with ArcGIS Pro
-An ArcGIS Pro training course offered by [Palash Basak](https://www.linkedin.com/in/palashbasak/)
-
-This GitHub repository contains [Lecture slides](https://github.com/basakpalash/introduction-to-gis-with-arcgis-pro/tree/main/lecture-slides), sample data, and video recordings.
+This GitHub repository contains [Lecture slides](https://github.com/basakpalash/introduction-to-gis-with-arcgis-pro/tree/main/lecture-slides), sample data, and video recordings of an introductory ArcGIS Pro training course delivered by [Palash Basak](https://www.linkedin.com/in/palashbasak/) via Google Classroom and live lectures. The lecture slides were developed in English, but the lectures were primarily delivered in Bangla.
